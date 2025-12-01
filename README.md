@@ -42,8 +42,6 @@ The implementation of the DC and Transient Analysis utilizes core techniques fro
 2.  Open **MATLAB**.
 3.  Navigate to the directory containing `linear_circuit_lab5.m`.
 4.  Run the function from the MATLAB command window:
-    ```matlab
-    
 5.  Use the toolbar buttons to build a circuit on the black canvas, set a ground node, and click **`Simulate DC`** or **`Simulate Transient`** to run the analysis.
 
 ## 🔑 Relevant Skills Demonstrated
