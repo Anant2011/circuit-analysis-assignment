@@ -2,7 +2,7 @@
 Developed a MATLAB-based circuit simulator for RLC circuits driven by independent DC sources, performing both steady-state and transient analysis with comprehensive results plotting.
 
 
-# Linear Circuit Lab (MATLAB GUI Simulator)
+# Linear Circuit Lab 
 
 This project is a fully functional graphical user interface (GUI) circuit simulator developed in MATLAB. It allows users to visually build linear circuits and perform both DC operating point and Transient (Time-Domain) analysis using the **Modified Nodal Analysis (MNA)** technique.
 
